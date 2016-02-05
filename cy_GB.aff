@@ -1,5 +1,6 @@
 # Ffeil AFF:
-# Hawlfraint (C) 2008-2012, Troi (http://troi.org)
+# Hawlfraint (C) 2016, Curon Wyn Davies (https://github.com/cwd24)
+# Hawlfraint (C) 2008-2012, David Chan (http://troi.org)
 # Hawlfraint (C) 2004-2011, Prifysgol Bangor (http://www.bangor.ac.uk)
 # 
 # Ffeil DIC:
@@ -293,7 +294,7 @@ SFX S 0 'm       [aeiouwyAEIOUWYâêîôûŵŷÂÊÎÔÛŴŶ]
 SFX S 0 'th      [aeiouwyAEIOUWYâêîôûŵŷÂÊÎÔÛŴŶ]
 
 # Common spelling substitutions
-REP 79
+REP 70
 REP a â
 REP e ê
 REP i î
@@ -321,7 +322,6 @@ REP ' f
 REP ir ys
 REP i au
 REP ' s
-REP m rn
 REP ph ff
 REP m ym
 REP x cs
@@ -341,7 +341,6 @@ REP j si
 REP ch ts
 REP oe wy
 REP s eis
-REP rn m
 REP bydd bu
 REP fydd fu
 REP u we
@@ -358,8 +357,6 @@ REP og ol
 REP ol og
 REP n ng
 REP g ng
-REP rn m
-REP rn nn
 REP we weu
 REP dwe dywe
 REP d'w dyw
@@ -368,8 +365,3 @@ REP son asom
 REP son om
 REP ad ail
 REP ail ad
-REP 1 i
-REP 1 l
-REP 0 o
-REP 6 ô
-REP 6 o
