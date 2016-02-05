@@ -16,6 +16,7 @@
 # ffitrwydd at bwrpas arbennig.
 
 SET UTF-8
+KEY qwertyuiop|asdfghjkl|zxcvbnm
 TRY -ŷŶŵŴïÏâÂôÔêÊjJëËäÄáÁéÉîÎöÖóÓòÒàÀíÍüÜìÌèÈûÛÿùÙûÛ.aAdDiIeEnNhHrRyYoOsSlLtTcCwWgGfFmMuUbBpPkKvVzZqQxX
 
 NEEDAFFIX X
@@ -24,6 +25,15 @@ BREAK 3
 BREAK -
 BREAK '
 BREAK ’
+
+MAP 7
+MAP aâäáà
+MAP eêëéè
+MAP iîïíì
+MAP oôöóò
+MAP uûüúù
+MAP yŷÿ
+MAP wŵ
 
 # Mutations
 PFX M Y 26
@@ -294,7 +304,7 @@ SFX S 0 'm       [aeiouwyAEIOUWYâêîôûŵŷÂÊÎÔÛŴŶ]
 SFX S 0 'th      [aeiouwyAEIOUWYâêîôûŵŷÂÊÎÔÛŴŶ]
 
 # Common spelling substitutions
-REP 70
+REP 68
 REP a â
 REP e ê
 REP i î
@@ -302,8 +312,6 @@ REP o ô
 REP u û
 REP w ŵ
 REP y ŷ
-REP ol ôl
-REP ty tŷ
 REP io ïo
 REP ea aea
 REP en em
