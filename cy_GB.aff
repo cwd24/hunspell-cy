@@ -251,22 +251,6 @@ SFX j 0 est     .
 SFX j 0 on      .
 SFX j 0 an      .
 
-SFX k Y 9
-SFX k 0 wn/MLH  .
-SFX k 0 odd/MLH .
-SFX k 0 on/MLH  .
-SFX k 0 och/MLH .
-SFX k 0 es/MLH  .
-SFX k 0 est/MLH .
-SFX k 0 ith/MLH .
-SFX k 0 iff/MLH .
-SFX k 0 an/MLH  .
-
-SFX A Y 3
-SFX A 0 ed
-SFX A 0 ach
-SFX A 0 af
-
 SFX B Y 1
 SFX B 0 au
 
@@ -293,15 +277,6 @@ SFX J 0 s
 
 SFX K Y 1
 SFX K 0 od
-
-SFX S Y 7
-SFX S 0 'r       [aeiouwyAEIOUWYâêîôûŵŷÂÊÎÔÛŴŶ]
-SFX S 0 'n       [aeiouwyAEIOUWYâêîôûŵŷÂÊÎÔÛŴŶ]
-SFX S 0 'i       [aeiouwyAEIOUWYâêîôûŵŷÂÊÎÔÛŴŶ]
-SFX S 0 'u       [aeiouwyAEIOUWYâêîôûŵŷÂÊÎÔÛŴŶ]
-SFX S 0 'ch      [aeiouwyAEIOUWYâêîôûŵŷÂÊÎÔÛŴŶ]
-SFX S 0 'm       [aeiouwyAEIOUWYâêîôûŵŷÂÊÎÔÛŴŶ]
-SFX S 0 'th      [aeiouwyAEIOUWYâêîôûŵŷÂÊÎÔÛŴŶ]
 
 # Common spelling substitutions
 REP 68
