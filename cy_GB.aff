@@ -251,6 +251,17 @@ SFX j 0 est     .
 SFX j 0 on      .
 SFX j 0 an      .
 
+SFX k Y 9
+SFX k 0 wn/MLH  .
+SFX k 0 odd/MLH .
+SFX k 0 on/MLH  .
+SFX k 0 och/MLH .
+SFX k 0 es/MLH  .
+SFX k 0 est/MLH .
+SFX k 0 ith/MLH .
+SFX k 0 iff/MLH .
+SFX k 0 an/MLH  .
+
 SFX B Y 1
 SFX B 0 au
 
@@ -274,9 +285,6 @@ SFX I 0 on
 
 SFX J Y 1
 SFX J 0 s
-
-SFX K Y 1
-SFX K 0 od
 
 # Common spelling substitutions
 REP 68
